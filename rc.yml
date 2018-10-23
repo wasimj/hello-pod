@@ -15,5 +15,5 @@ spec:
             - name: hello-pod
               image: yeasy/simple-web:latest
               ports:
-              - containerPort: 80
+              - containerPort: 8080
 
